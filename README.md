@@ -1,4 +1,4 @@
-void main() {
+          void main() {
     trisa = 0;
     trisb = 0;
     trisc = 0;
